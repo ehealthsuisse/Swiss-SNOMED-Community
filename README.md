@@ -24,6 +24,7 @@ Die gesamte Kommunikation dieser Plattform untersteht den Regeln von Github mit 
 In regelmässigen Abständen werden die beantworteten Fragen, sowie beendete Diskussionsstränge ins Archiv überführt.
 
 ## Kontakt
-[Email:](snomed@e-health-suisse.ch)
+Unter dieser Email könnt Ihr Anregungen zu der Plattform wie auch Fragen rund um Snomed stellen. Diese Mails werden einmal im Monat abgearbeitet. 
+Email:snomed@e-health-suisse.ch
 
 ### Quellen
