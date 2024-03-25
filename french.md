@@ -1,5 +1,5 @@
 # Snomed-Community
-## Qu'est-ce que la communauté Snomed
+## Qu'est-ce que la communauté Snomed?
 Le GI SNOMED a exprimé le souhait de disposer d'une plate-forme de communication. Cette plate-forme doit être à la fois une plate-forme d'échange entre les utilisateurs de SNOMED et une plate-forme d'assistance. Les utilisateurs doivent pouvoir se soutenir mutuellement en cas de questions sur l'implémentation ou de questions générales sur SNOMED CT. Cette plate-forme et l'intensité de la participation sont appelées à se développer. C'est pourquoi il est expressément souhaité de proposer des souhaits d'amélioration de cette plate-forme. En effet, la plate-forme ne peut avoir du succès que si elle répond aux besoins des utilisateurs.
 
 ## Comment la communauté est-elle structurée ?
