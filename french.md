@@ -19,4 +19,8 @@ Toute la communication de cette plate-forme est soumise aux règles de Github et
 
 A intervalles réguliers, les questions auxquelles il a été répondu ainsi que les fils de discussion terminés sont transférés dans les archives.
 
+## Contact
+Sous cet e-mail, vous pouvez faire des suggestions sur la plate-forme et poser des questions sur Snomed. Ces e-mails sont traités une fois par mois. 
+Email:snomed@e-health-suisse.ch
+
 ## Sources
