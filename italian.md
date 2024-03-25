@@ -19,4 +19,8 @@ Tutte le comunicazioni su questa piattaforma sono soggette alle regole di Github
 
 Le domande a cui si risponde e le discussioni chiuse saranno spostate nell'archivio a intervalli regolari.
 
+## Contatto
+È possibile utilizzare questa e-mail per fornire suggerimenti sulla piattaforma e porre domande sullo Snomed. Queste e-mail verranno elaborate una volta al mese. 
+Email:snomed@e-health-suisse.ch
+
 ## Fonti
