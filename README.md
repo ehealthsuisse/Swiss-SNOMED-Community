@@ -23,4 +23,7 @@ Die gesamte Kommunikation dieser Plattform untersteht den Regeln von Github mit 
 
 In regelmässigen Abständen werden die beantworteten Fragen, sowie beendete Diskussionsstränge ins Archiv überführt.
 
+## Kontakt
+[Email:](snomed@e-health-suisse.ch)
+
 ### Quellen
