@@ -1,6 +1,6 @@
 [english-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/english.md)
 [french-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/french.md)
-[italian-version]()
+[italian-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/italian.md)
 # Snomed-Community
 
 ## Was ist Snomed-CT Community?
