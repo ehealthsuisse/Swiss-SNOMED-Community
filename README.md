@@ -1,5 +1,5 @@
 [english-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/english.md)
-[french-version]()
+[french-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/french.md)
 [italian-version]()
 # Snomed-Community
 
