@@ -20,4 +20,8 @@ All communication on this platform is subject to the rules of Github with the co
 
 Answered questions and closed discussion threads will be moved to the archive at regular intervals.
 
+## Contact
+You can use this email to make suggestions about the platform and ask questions about Snomed. These mails will be processed once a month. 
+Email:snomed@e-health-suisse.ch
+
 ## Sources
