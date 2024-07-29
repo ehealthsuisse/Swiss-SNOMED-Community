@@ -1,30 +1,33 @@
 [english-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/english.md)
 [french-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/french.md)
 [italian-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/italian.md)
-# Snomed-Community
+# Swiss SNOMED-Community
 
-## Was ist Snomed-CT Community?
-In der IG SNOMED wurde der Wunsch nach einer Kommunikationsplattform geäussert. Diese Plattform soll sowohl als Austauschplattform zwieschn den Anwendern von SNOMED als auch eine Supportplattform sein. Die Anwender sollen sich gegenseitig bei Fragen zur Implementierung sowie allgemeinen Fragen zu SNOMED CT unterstützen können. Diese Plattform sowie die Teilnahme intensität wird sich entwickeln. Deshalb ist es ausdrücklich erwünscht Verbesserungswünsche zu dieser Plattform vorzuschlagen. Denn nur wenn die Plattform die Bedürfnisse der Anwender abdeckt, kann die Plattform erfolg haben.
+## Was ist Swiss SNOMED-Community?
+Diese Plattform soll sowohl eine Austauschplattform zwischn den SNOMED-Anwendern als auch eine Supportplattform sein. Die Anwender sollen sich gegenseitig bei Fragen zur Implementierung sowie allgemeinen Fragen zu SNOMED CT unterstützen können. Diese Plattform sowie die Teilnahme intensität wird sich entwickeln. Deshalb ist es ausdrücklich erwünscht Verbesserungswünsche zu dieser Plattform vorzuschlagen. Denn nur wenn die Plattform die Bedürfnisse der Anwender abdeckt, kann die Plattform erfolg haben.
 
-## Wie ist die Community aufgebaut?
-Es gibt auf dieser Platform drei weitere Repositories, welche mit diesem Repository verlinkt sind. In der [Community](https://github.com/ehealthsuisse/Community/blob/main/README.md) befinden sich [Diskussionen](https://github.com/ehealthsuisse/Community/discussions) thematisch Unterteilt, sowie die [Netiquette](https://github.com/ehealthsuisse/Community-Snomed/blob/main/README.md#netiquette) von dieser Plattform. Unter official [Announcements](https://github.com/ehealthsuisse/Announcements/discussions) werden die News zu Snomed CT bekannt gegeben. Unter [Archiv](https://github.com/ehealthsuisse/Archiv/discussions) werden beantwortete Fragen, Diskussionsbeiträge und Informationen archiviert.
+## Wie ist die Swiss SNOMED-Community aufgebaut?
+Insgesamt gibt es drei Repositires, welche ,iteinader Verlinkt sind. In der Swiss SNOMED-
+ [Community](https://github.com/ehealthsuisse/Community/blob/main/README.md) finden sich thematisch unterteilt [Diskussionen](https://github.com/ehealthsuisse/Community/discussions), sowie die [Netiquette](https://github.com/ehealthsuisse/Community-Snomed/blob/main/README.md#netiquette) der Swiss SNOMED-Community. Unter official [Announcements](https://github.com/ehealthsuisse/Announcements/discussions) werden die Neuigkeiten zu Snomed CT publiziert. Das [Archiv](https://github.com/ehealthsuisse/Archiv/discussions) beihnaltet  beantwortete Fragen, Diskussionsbeiträge und archivierte Informationen.
 
 ### Community
-Unter dem Repository Community ist die Netiquette und das Diskussionsforum ist verlinkt mit verschiedenen Themenbereichen. General ist vorgesehen allgemeine Themen rund um Snomed zu diskutieren. Q&A können technische wie auch allgemeine Fragen rund um Snomed gestellt und beantwortet werden. Ist die Frage beantwortet kann diese in den Status beantwortet gesetzt werden, am besten von demjenigen, welche die Frage gestellt hat. Unter Ideen können Ideen zur Umsetzung wie auch allgemeine Ideen rund um Snomed und deren Anwendung kund getan werden. Entweder um Meinungen einzuholen, oder die Idee weiter reifen zu lassen. Unter show and Tell sind allgemeine Inputs zur Umsetzung wie auch allgemein zum Thema Snomed CT zu hinterlassen.
+Unter dem Repository Community ist die [Netiquette](https://github.com/ehealthsuisse/Community-Snomed/blob/main/README.md#netiquette) und das Diskussionsforum ist  mit verschiedenen Themenbereichen verlinkt. General ist für die Diskussion allgemeiner Themen rund um SNOMED CT vorgesehen. Bei «Q&A» können sowohl technische als auch allgemeine Fragen rund um SNOMED CT gestellt und beantwortet werden. Ist die Frage beantwortet, kann sie in den Status «beantwortet» gesetzt werden, vorzugsweise von der Person, die die Frage gestellt hat. Unter «Ideen» können Ideen zur Umsetzung sowie allgemein rund um SNOMED CT und dessen Anwendung gepostet werden. Unter «Show and Tell» können allgemeine Projekte, Implementierungen oder andere Themen zu SNOMED CT gepostet werden.
 
 ### Announcements
-Unter diesem Repository findet man Aktualitäten rund um Snomed CT sowie Daten zu IG SNOMED treffen. Ihr seit herzlich eingeladen Online-Meetings innerhalb der Community zu organisieren und diese hier zu veröffentlichen. Gibt es zum Beispiel mehrere Anwender mit dem gleichen Problem oder Frage, wäre dies eventuell noch hilfreich. Wie oben erwähnt aktiv Mitmachen ist hier erwünscht.
+Dieses Repository enthält Neuigkeiten und Ankündigungen rund um SNOMED CT. Besteht Bedarf an einem Treffen zu einem bestimmten SNOMED CT, kann dieses innerhalb der Community organisiert werden. Dies kann z.B. hilfreich sein, wenn mehrere Anwender das gleiche Problem oder die gleiche Frage haben. Aktive Teilnahme ist hier erwünscht.
 
 ### Archive
-In diesem Repository werden die Diskussionen und Unterhaltungen der Community archiviert. Vielleicht ist die aktuelle Frage schon ein mal in einer vorhergehenden Diskussion gestellt, bez. beantwortet worden. Dann müsste man nicht auf eine Antwort eines anderen Anwenders warten.
+In diesem Repository werden die Diskussionen der Community archiviert. Es wird empfohlen, vor dem Stellen einer Frage oder dem Eröffnen einer Diskussion im "Archive" Repository nachzusehen, ob das Thema oder die Frage bereits behandelt oder beantwortet wurde.
 
 ## Vorgehen des Community Managements
-Die gesamte Kommunikation dieser Plattform untersteht den Regeln von Github mit dem entsprechenden Code of Conduct. Diese Regeln müssen eingehalten werden. Persönliche Interferenzen haben hier keinen Raum. Alle sorgen für eine zielorientierte sachliche Kommunikation. Dies ist eine öffentliche Plattform, welche die Autorenrechte ernst nimmt. Bitte passt auf, was ihr wie veröffentlicht. Werden die Regeln von Github oder die [Netiquette](https://github.com/ehealthsuisse/Community-Snomed/blob/main/README.md#netiquette) Community nicht eingehalten behaltet sich das Community Management vor die Inhalte zu löschen und bei mehrmaligem Verstoss diese Anwender auszuschliessen.
+Die gesamte Kommunikation auf dieser Plattform unterliegt den Regeln von GitHub mit dem entsprechenden Code of Conduct. Diese Regeln sind einzuhalten. Es ist auf eine sachliche und zielgerichtete Kommunikation zu achten. Diese Plattform ist öffentlich und kann von jedermann eingesehen werden. Daher sollten keine vertraulichen Informationen veröffentlicht werden.
+Werden die Regeln von GitHub oder die [Netiquette](https://github.com/ehealthsuisse/Community-Snomed/blob/main/README.md#netiquette) der Swiss SNOMED-Community nicht eingehalten, behalten sich die Community Manager das Recht vor, Inhalte zu löschen und bei wiederholten Verstössen Personen von der Swiss SNOMED-Community auszuschliessen.
 
-In regelmässigen Abständen werden die beantworteten Fragen, sowie beendete Diskussionsstränge ins Archiv überführt.
+Beantwortete Fragen sowie abgeschlossene Diskussionsstränge werden von den Community Managern in regelmässigen Abständen ins Archiv verschoben.
 
 ## Kontakt
-Unter dieser Email könnt Ihr Anregungen zu der Plattform wie auch Fragen rund um Snomed stellen. Diese Mails werden einmal im Monat abgearbeitet. 
-Email:snomed@e-health-suisse.ch
+Sollten Sie Verbesserungsvorschläge zu der Plattform als auch zu der Community haben bitten wir Sie mit uns Kontakt aufzunehmen
+Sie können Ihre Anregungen zu der Plattform wie auch Fragen rund um SNOMED CT  an folgende E-Mail-Adresse stellen. 
+E-Mail:SNOMED@e-health-suisse.ch
 
 ### Quellen
