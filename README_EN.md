@@ -1,4 +1,8 @@
+[german-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_DE.md)
+[french-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_FR.md)
+[italian-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_IT.md)
 # Swiss Snomed-Community
+
 ## What is the SNOMED-Community?
 
 This platform is designed not only to facilitate exchanges between SNOMED users but also as a platform for support. It should enable users to support each other on questions concerning implementation and also for general questions on SNOMED CT. As this platform – and participation intensity – will develop over time, users are encouraged to submit suggestions as to how it could be improved. For the platform can only be successful if it meets users’ needs.
