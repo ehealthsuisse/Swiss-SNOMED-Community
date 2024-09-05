@@ -1,4 +1,8 @@
+[english-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_EN.md)
+[german-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_DE.md)
+[italian-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_IT.md)
 # Swiss Snomed-Community
+
 ## Qu’est-ce que la Swiss SNOMED-Community ?
 Cette plateforme est destinée à servir à la fois d’espace d’échange entre les utilisateurs de SNOMED CT et de plateforme d’assistance. Les utilisateurs pourront s’entraider sur les aspects relatifs à l’implémentation et à SNOMED CT en général. La plateforme et la participation sont appelées à se développer. Des propositions d’amélioration sont donc expressément souhaitées. En effet, la plateforme ne connaîtra le succès que si elle répond aux besoins des utilisateurs.
 
@@ -21,5 +25,3 @@ Les gestionnaires de communauté déplacent régulièrement dans l’archive les
 
 ### Contact
 Si vous avez des propositions d’amélioration concernant la plateforme ou la communauté, nous vous prions de nous contacter. Vous pouvez envoyer vos suggestions sur la plateforme et vos questions sur SNOMED CT à l’adresse SNOMED@e-health-suisse.ch.
-
-## Sources
