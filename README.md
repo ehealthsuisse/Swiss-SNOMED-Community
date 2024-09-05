@@ -1,6 +1,6 @@
-[english-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/english.md)
-[french-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/french.md)
-[italian-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/italian.md)
+[english-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_EN.md)
+[french-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_FR.md)
+[italian-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_IT.md)
 # Swiss SNOMED-Community
 
 ## Was ist Swiss SNOMED-Community?
