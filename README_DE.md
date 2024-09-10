@@ -26,6 +26,6 @@ Sollten Sie Verbesserungsvorschläge zu der Plattform als auch zu der Community 
 E-Mail:SNOMED@e-health-suisse.ch
 
 ![eHealth Suisse Logo](Logo/DE.svg)
-<img src="https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Logo/DE.svg" width="80%" height="80%">
-<img src="Logo/DE.svg" width="50%" height="50%">
-
+<p align="center">
+<img src="Logo/DE.svg" width="60%" height="60%">
+</p>
