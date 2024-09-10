@@ -25,3 +25,6 @@ Les gestionnaires de communauté déplacent régulièrement dans l’archive les
 
 ### Contact
 Si vous avez des propositions d’amélioration concernant la plateforme ou la communauté, nous vous prions de nous contacter. Vous pouvez envoyer vos suggestions sur la plateforme et vos questions sur SNOMED CT à l’adresse SNOMED@e-health-suisse.ch.
+<p align="center">
+<img src="Logo/FR.svg" width="60%" height="60%">
+</p>
