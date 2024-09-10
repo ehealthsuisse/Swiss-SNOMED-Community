@@ -2,7 +2,7 @@
 [french-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_FR.md)
 [italian-version](https://github.com/ehealthsuisse/Snomed-Community/blob/main/README_IT.md)
 
-![eHealth Suisse Logo](Logo/Logo_eHS_d.jpg)
+![eHealth Suisse Logo](Logo/DE.svg)
 
 # Swiss SNOMED-Community
 
