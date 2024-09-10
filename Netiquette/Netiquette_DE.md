@@ -1,4 +1,6 @@
-[Netiquette_FR](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_FR.md) [Netiquette EN](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_EN.md) [Netiquette IT](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_IT.md) 
+[french-version](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_FR.md) 
+[english-version](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_EN.md)
+[italian-version](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_IT.md) 
 # Community
 
 ## Netiquette 
