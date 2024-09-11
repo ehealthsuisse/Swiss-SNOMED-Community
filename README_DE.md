@@ -25,7 +25,7 @@ Beantwortete Fragen sowie abgeschlossene Diskussionsstränge werden von den Comm
 Sollten Sie Verbesserungsvorschläge zu der Plattform als auch zu der Community haben bitten wir Sie mit uns Kontakt aufzunehmen. Sie können Ihre Anregungen zu der Plattform wie auch Fragen rund um SNOMED CT an folgende E-Mail-Adresse stellen. 
 E-Mail:SNOMED@e-health-suisse.ch
 <p align="center">
-<img src="Logo/DE.svg" width="100%" height="100%">
+<img src="Logo/DE.svg" width="200%" height="200%">
 </p>
 <div style="text-align: center;">
     <img width="100%" src="Logo/DE.svg">
