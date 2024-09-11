@@ -30,3 +30,6 @@ E-Mail:SNOMED@e-health-suisse.ch
 <div style="text-align: center;">
     <img width="100%" src="Logo/DE.svg">
 </div>
+
+<img align="center" src="Logo/DE.svg">
+
