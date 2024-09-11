@@ -27,9 +27,6 @@ E-Mail:SNOMED@e-health-suisse.ch
 <p align="center">
 <img src="Logo/DE.svg" width="200%" height="200%">
 </p>
-<div style="text-align: center;">
-    <img width="100%" src="Logo/DE.svg">
-</div>
 
-<img align="center" src="Logo/DE.svg">
+<img src="Logo/DE.svg" align="center">
 
