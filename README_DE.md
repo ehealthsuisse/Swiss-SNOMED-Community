@@ -8,7 +8,7 @@
 Diese Plattform soll sowohl eine Austauschplattform zwischen den SNOMED-Anwendern als auch eine Supportplattform sein. Die Anwender sollen sich gegenseitig bei Fragen zur Implementierung sowie allgemeinen Fragen zu SNOMED CT unterstützen können.
 
 ## Wie ist die Swiss SNOMED-Community aufgebaut?
-In der [Swiss SNOMED-Community](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/README_DE.md) finden sich thematisch gegliederte [Diskussionen](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions) in verschiedenen Kategorien sowie die [Netiquette](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/NettiquetDeutsch.md) der Swiss SNOMED-Community. 
+In der [Swiss SNOMED-Community](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/README_DE.md) finden sich thematisch gegliederte [Diskussionen](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions) in verschiedenen Kategorien sowie die [Netiquette](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_DE.md) der Swiss SNOMED-Community. 
 Unter der Kategorie [official Announcements](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions/categories/announcements) werden Neuigkeiten rund um SNOMED CT publiziert. Besteht beispielsweise Bedarf, ein bestimmtes SNOMED CT Thema in einem Meeting zu diskutieren, so kann dieses innerhalb der Community organisiert werden. Aktive Teilnahme ist hier erwünscht.
 Die Kategorie «General» ist für die Diskussion allgemeiner Themen rund um SNOMED CT vorgesehen. 
 Unter «Q&A» können sowohl technische als auch allgemeine Fragen rund um SNOMED CT gestellt und beantwortet werden. Ist die Frage beantwortet, kann sie in den Status «beantwortet» gesetzt werden, vorzugsweise von der Person, die die Frage gestellt hat.
@@ -17,7 +17,7 @@ Unter «Show and Tell» können allgemeine Projekte, Implementierungen oder ande
 
 ## Vorgehen des Community Managements
 Die gesamte Kommunikation auf dieser Plattform unterliegt den Regeln von GitHub und dem entsprechenden Code of Conduct. Diese Regeln sind einzuhalten. Es ist auf eine sachliche und zielgerichtete Kommunikation zu achten. Diese Plattform ist öffentlich und kann von jedermann eingesehen werden. Daher sollten keine vertraulichen Informationen veröffentlicht werden.
-Werden die Regeln von GitHub oder die [Netiquette](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Nettiquette_DE.md) der Swiss SNOMED-Community nicht eingehalten, behalten sich die Community Manager das Recht vor, Inhalte zu löschen und bei wiederholten Verstössen Personen von der Swiss SNOMED-Community auszuschliessen.
+Werden die Regeln von GitHub oder die [Netiquette](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_DE.md) der Swiss SNOMED-Community nicht eingehalten, behalten sich die Community Manager das Recht vor, Inhalte zu löschen und bei wiederholten Verstössen Personen von der Swiss SNOMED-Community auszuschliessen.
 
 Beantwortete Fragen sowie abgeschlossene Diskussionsstränge werden von den Community Managern in regelmässigen Abständen ins Archiv verschoben.
 
