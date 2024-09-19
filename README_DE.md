@@ -9,7 +9,7 @@ Diese Plattform soll sowohl eine Austauschplattform zwischen den SNOMED-Anwender
 
 ## Wie ist die Swiss SNOMED-Community aufgebaut?
 In der [Swiss SNOMED-Community](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/README_DE.md) finden sich thematisch gegliederte [Diskussionen](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions) in verschiedenen Kategorien sowie die [Netiquette](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_DE.md) der Swiss SNOMED-Community. 
-Unter der Kategorie [official Announcements](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions/categories/announcements) werden Neuigkeiten rund um SNOMED CT publiziert. Besteht beispielsweise Bedarf, ein bestimmtes SNOMED CT Thema in einem Meeting zu diskutieren, so kann dieses innerhalb der Community organisiert werden. Aktive Teilnahme ist hier erwünscht.
+Unter der Kategorie [official Announcements](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions/categories/announcements) werden Neuigkeiten rund um SNOMED CT publiziert. Besteht Bedarf, ein bestimmtes SNOMED CT Thema in einem Meeting zu diskutieren, so kann dieses innerhalb der Community organisiert werden. Aktive Teilnahme ist hier erwünscht.
 Die Kategorie «General» ist für die Diskussion allgemeiner Themen rund um SNOMED CT vorgesehen. 
 Unter «Q&A» können sowohl technische als auch allgemeine Fragen rund um SNOMED CT gestellt und beantwortet werden. Ist die Frage beantwortet, kann sie in den Status «beantwortet» gesetzt werden, vorzugsweise von der Person, die die Frage gestellt hat.
 Unter «Ideen» können Ideen zur Umsetzung sowie allgemeine Ideen rund um SNOMED CT und seine Anwendung gepostet werden. 
