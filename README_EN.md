@@ -16,7 +16,7 @@ In »Show and Tell» you can post general projects, implementations or other top
 
 ## Community Management Procedure
 All communication on this platform is governed by the GitHub Rules and Code of Conduct. These rules must be followed. It is important to keep communication factual and focused. This platform is public and can be viewed by anyone, so confidential information should not be posted.
-If the rules of GitHub or the [netiquette](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Nettiquette_EN.md) of the Swiss SNOMED community are not followed, the community managers reserve the right to delete content and, in the case of repeated violations, to exclude individuals from the Swiss SNOMED community.
+If the rules of GitHub or the [netiquette](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_EN.md) of the Swiss SNOMED community are not followed, the community managers reserve the right to delete content and, in the case of repeated violations, to exclude individuals from the Swiss SNOMED community.
 Answered questions and closed discussion threads are regularly moved to the archive by the Community Managers.
 
 ## Contact
