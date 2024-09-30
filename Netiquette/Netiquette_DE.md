@@ -5,6 +5,6 @@
 
 ## Netiquette 
 
-Bevor es endgültig zur Diskussion geht, nochmals die Kommunikationsregeln aufgefrischt. Schreibe so in die Diskussion, als würde die Person dir Gegenüberstehen. Verhalte dich so als würdest du mit dem Anwnender Face to Face diskutieren. So vermeidest du auch das Missachten von Urheberrechten, denn du würdest einer wildfremenden Person auch nicht deine Arbeitsdokumente offen legen. Genauso wenig wie du deine persönlichen Daten (Telefon, Adresse, Email ect) oder die Anderer veröffentlichen würdest Auf dieser Plattform dulden wir kein Mobbing und keine Werbung. Anwender behandeln sich mit Respekt und bleiben sachlich und höflich. Da wir eine qualitative Diskussion wollen, kennzeichnen wir die Zitate und überprüfen unsere Quellen.
+Bevor es zur Diskussion geht, hier noch einmal die Kommunikationsregeln: Schreibe und verhalte dich in der Diskussion so, als ob du ein direktes Gegenüber hättest. So vermeidest du Urheberrechtsverletzungen, denn du würdest ja auch deine Arbeitsunterlagen nicht an eine fremde Person weitergeben. Genauso wenig würdest du deine persönlichen Daten (Telefon, Adresse, E-Mail etc.) oder die von anderen veröffentlichen. Wir dulden kein Mobbing und keine Werbung auf dieser Plattform. Nutzerinnen und Nutzer behandeln gehen respektvoll miteinander um und bleiben sachlich und höflich. Da wir eine seriöse und inhaltliche Diskussion wollen, kennzeichnen wir die Zitate und überprüfen unsere Quellen.
 
-[Discussion](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions)
+Zur [Diskussion](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions)
