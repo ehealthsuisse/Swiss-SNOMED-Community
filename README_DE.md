@@ -26,3 +26,5 @@ Sollten Sie Verbesserungsvorschläge zu der Plattform als auch zu der Community 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ehealthsuisse/eHS_Logo/eHS_Logo/DE.svg" width="600" height="300">
 </p>
+
+![eHealth-Suisse Logo](https://raw.githubusercontent.com/ehealthsuisse/eHS_Logo/eHS_Logo/DE.svg)
