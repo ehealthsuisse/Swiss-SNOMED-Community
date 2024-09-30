@@ -3,8 +3,8 @@
 [italian-version](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/blob/main/Netiquette/Netiquette_IT.md) 
 # Communauté
 
-## Nétiquette
+## Nétiquette (Code de conduite)
 
-Avant de commencer à débattre, un petit rappel des règles de communication s’impose. Au fil de la discussion, écrivez comme si la personne était en face de vous : faites comme si vous lui parliez de vive voix. Ainsi, vous éviterez aussi d’enfreindre les droits d’auteur ; en effet, vous ne divulgueriez pas vos documents de travail à un parfait inconnu, tout comme vous ne publieriez pas vos données personnelles (numéro de téléphone, adresse, e-mail, etc.) ou celles de quelqu’un d’autre. Sur cette plateforme, nous ne tolérons ni harcèlement moral ni publicité. Les utilisateurs se traitent avec respect et courtoisie tout en faisant preuve d’objectivité. Dans la mesure où nous visons une discussion qualitative, nous signalons les citations et vérifions nos sources.
+Avant de passer à la discussion, voici un rappel des règles de communication : Ecris et agis pendant la discussion comme si tu avais la personne en face de toi. Tu éviteras ainsi de violer les droits d'auteur, car tu ne donnerais pas non plus tes documents de travail à une personne tierce. De même, tu ne publierais pas tes données personnelles (téléphone, adresse, e-mail, etc.) ou celles des autres. Nous ne tolérons pas le harcèlement et la publicité sur cette plateforme. Les utilisateurs et utilisatrices se traitent avec respect et restent objectifs et polis. Comme nous voulons une discussion sérieuse et de fond, nous marquons les citations et vérifions nos sources.
 
 [Discussion](https://github.com/ehealthsuisse/Swiss-SNOMED-Community/discussions)
