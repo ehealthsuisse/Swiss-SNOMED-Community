@@ -26,3 +26,4 @@ Sollten Sie Verbesserungsvorschläge zu der Plattform als auch zu der Community 
 <p align="center">
 <img src="Logo/DE.svg" width="600" height="300">
 </p>
+![Logo_eHS_d](https://github.com/user-attachments/assets/10f0219c-2e57-40b3-9aa6-da1b4cacd632)
