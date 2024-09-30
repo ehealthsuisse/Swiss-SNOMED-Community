@@ -21,5 +21,5 @@ Le domande risposte e i thread di discussione conclusi vengono regolarmente spos
 Se avete suggerimenti per migliorare la piattaforma o la comunità, vi preghiamo di contattarci. Potete inviare i vostri suggerimenti per la piattaforma e le vostre domande su SNOMED CT al seguente indirizzo e-mail.  
 E-mail: SNOMED@e-health-suisse.ch
 <p align="center">
-<img src="Logo/IT.svg" width="600" height="300">
+<img src="https://github.com/ehealthsuisse/eHS_Logo/blob/main/eHS_Logo/IT.svg?raw=true" width="600" height="300">
 </p>

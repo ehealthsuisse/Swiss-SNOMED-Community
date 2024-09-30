@@ -22,5 +22,5 @@ Answered questions and closed discussion threads are regularly moved to the arch
 ## Contact
 If you have any suggestions for improving the platform or the community, please contact us. Suggestions for the platform as well as questions about SNOMED CT can be sent to the following email address: SNOMED@e-health-suisse.ch
 <p align="center">
-<img src="Logo/EN.svg" width="600" height="300">
+<img src="https://github.com/ehealthsuisse/eHS_Logo/blob/main/eHS_Logo/EN.svg?raw=true" width="600" height="300">
 </p>
